@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListFactories", "ListFactor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivFactories", "DivFactories\DivFactories.csproj", "{C3C777B6-BC50-4FDD-B06E-6D6A2AF31A0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{8628A3CB-3C1F-4C75-B164-C647131CA4C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{C3C777B6-BC50-4FDD-B06E-6D6A2AF31A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C777B6-BC50-4FDD-B06E-6D6A2AF31A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C777B6-BC50-4FDD-B06E-6D6A2AF31A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8628A3CB-3C1F-4C75-B164-C647131CA4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8628A3CB-3C1F-4C75-B164-C647131CA4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8628A3CB-3C1F-4C75-B164-C647131CA4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8628A3CB-3C1F-4C75-B164-C647131CA4C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
