@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Framework
 {
-    public abstract class Product
+    public interface IProduct
     {
-        public abstract void Use();
+        public void Use(string s);
 
+        public IProduct CreateCopy();
     }
 }
