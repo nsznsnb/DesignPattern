@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Factory": {
+      "commandName": "Project",
+      "commandLineArgs": "div.html DivFactories.DivFactory"
+    }
+  }
+}
